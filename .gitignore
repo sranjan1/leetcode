@@ -1,0 +1,62 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+log/
+logs/
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle
+.gradle
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.backup
+release.properties
+.flattened-pom.xml
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Spring Boot
+bin/
+.project
+.classpath
+.settings/
+.sts4-cache
+
+# Application properties with sensitive data
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# Environment variables
+.env
+.env.local
